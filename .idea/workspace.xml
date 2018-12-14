@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d901aa7-8f63-4c75-b6b1-86de9e916bd3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/yfc/chapter12/Practice12.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/yfc/chapter12/Practice13.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Practice3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Practice7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice7.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice12.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Practice12.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
@@ -111,6 +100,26 @@
                 <element signature="e#750#751#0" expanded="true" />
                 <element signature="e#806#807#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice13.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -192,7 +201,6 @@
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice1.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice2.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice4.java" />
-        <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice5.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice6.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice3.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice7.java" />
@@ -201,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice11.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice10.java" />
         <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice12.java" />
+        <option value="$PROJECT_DIR$/src/yfc/chapter12/Practice5.java" />
       </list>
     </option>
   </component>
@@ -268,14 +277,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="yfc" type="462c0819:PsiDirectoryNode" />
               <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="yfc" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice12.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -541,12 +542,20 @@
       <workItem from="1544675402727" duration="8050000" />
       <workItem from="1544699209700" duration="17000" />
       <workItem from="1544780311072" duration="654000" />
-      <workItem from="1544781144920" duration="119000" />
+      <workItem from="1544781144920" duration="330000" />
     </task>
+    <task id="LOCAL-00001" summary="写了第十二章的第十二题">
+      <created>1544781304421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544781304421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100061000" />
+    <option name="totallyTimeSpent" value="100272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -615,6 +624,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="写了第十二章的第十二题" />
+    <option name="LAST_COMMIT_MESSAGE" value="写了第十二章的第十二题" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -622,13 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/work/java/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/work/java/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -887,14 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/work/java/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -1005,6 +1003,22 @@
             <element signature="e#750#751#0" expanded="true" />
             <element signature="e#806#807#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yfc/chapter12/Practice5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
