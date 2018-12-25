@@ -9,7 +9,7 @@ public class Practice1 extends Rodent{
 
     @Override
     public void eat() {
-        System.out.println("Practice1 eat name = " + name);
+        System.out.println("Practice2 eat name = " + name);
     }
 
     public static void main(String[] args) {
