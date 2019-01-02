@@ -6,14 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d901aa7-8f63-4c75-b6b1-86de9e916bd3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yfc/chapter13/Practice12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yfc/chapter13/Practice15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yfc/chapter13/Practice15.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,8 +78,8 @@
       <file leaf-file-name="Practice20.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/yfc/chapter13/Practice20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -244,14 +237,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="yfc" type="462c0819:PsiDirectoryNode" />
               <item name="chapter13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thinking-in-Java-Practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking-in-Java-Practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="yfc" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice20.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -489,7 +474,7 @@
       <workItem from="1545822053070" duration="3483000" />
       <workItem from="1545886246654" duration="2021000" />
       <workItem from="1545980035525" duration="8780000" />
-      <workItem from="1546389335024" duration="4742000" />
+      <workItem from="1546389335024" duration="5292000" />
     </task>
     <task id="LOCAL-00001" summary="写了第十二章的第十二题">
       <created>1544781304421</created>
@@ -533,11 +518,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545886319334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第十三章16题到20题">
+      <created>1546404749175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546404749175</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149488000" />
+    <option name="totallyTimeSpent" value="150038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="296" y="59" width="1171" height="936" extended-state="0" />
@@ -553,11 +545,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.21919431" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26844016" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26844016" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2008658" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2008658" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -640,7 +632,8 @@
     <MESSAGE value="十二章第三部分" />
     <MESSAGE value="删除测试文件" />
     <MESSAGE value="Icss测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="Icss测试" />
+    <MESSAGE value="第十三章16题到20题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第十三章16题到20题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -997,8 +990,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/yfc/chapter13/Practice20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
