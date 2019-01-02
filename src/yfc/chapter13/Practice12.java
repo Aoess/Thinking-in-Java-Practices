@@ -7,9 +7,9 @@ public class Practice12 {
 
     //没做出来.,..
     public static void main(String[] args) {
-        String rex = "^[A-Z](\\S)$";
+        String rex = "^[A-Z]";
         String text = "Erline ate Eight apples and One orange While Anita hadn' t any";
-        Pattern pa = Pattern.compile(rex);
+        Pattern pa = Pattern.compile(rex,Pattern.MULTILINE);
         Matcher matcher = pa.matcher(text);
 
         while(matcher.find()) {
